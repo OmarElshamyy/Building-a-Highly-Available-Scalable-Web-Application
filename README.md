@@ -228,28 +228,4 @@ Task 4: Load testing the application
 Perform a load test on the application to monitor scaling. 
 
 Use Script-2 from the AWS Cloud9 Scripts file (cloud9-scripts.yml) to perform the load test. Recall that you used scripts from this file in previous tasks.
-
- Notes:
-
-Access the web application from the browser by using the load balancer URL.
-Use AWS Cloud9 to run the load testing scripts against the load balancer.
-Reference
-
-loadtest Tool Repository on GitHub
  
-
-Ending your session
-Reminder: This is a long-lived lab environment. Data is retained until you either use the allocated budget or the course end date is reached (whichever occurs first).
-
-To preserve your budget when you are finished for the day, or when you are finished actively working on the assignment for the time being, do the following:
-
-At the top of this page, choose  End Lab, and then choose Yes to confirm that you want to end the lab.
-
-A message panel indicates that the lab is terminating.
-
- Note: Choosing End lab in this lab environment will not delete the resource you have created. They will still be there the next time you choose Start lab (for example, on another day).
-
-To close the panel, choose Close in the upper-right corner.
- 
-
-© 2023, Amazon Web Services, Inc. or its affiliates. All rights reserved.
